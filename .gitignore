@@ -1,6 +1,3 @@
-# MongoDB Path
-MONGO_DB_PATH = "mongodb://localhost:27017/"
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
